@@ -13,3 +13,28 @@ Working on Automatic face recognition using VGG model with Tensorflow and Keras
 ###### 5. Post Preprocessing: After the xlsx sheet is applied for the system those data will be uploaded to corresponded authorities. Using matplotib, email package we did the process of sending the file and text.
 
 # Reference : https://www.youtube.com/watch?v=p-Jf_FRqjXQ
+
+
+Those who have any queries regarding the project comment me or mail me.
+
+Mail id: manasajagannadan@gmail.com
+
+Thanks & Regards,
+
+Jagannadan Manasa
+
+Undergraduate student
+
+Electronics And Communication Engineering Department
+
+Rajiv Gandhi University of Knowledge Technologies
+
+IIIT RK Valley, Vempalli (M), YSR Kadapa, AP-516330
+
+manasajagannadan@gmail.com
+
+https://manasajagannadan.wixsite.com/manasa-jagannadan
+
+https://www.linkedin.com/in/jagannadan-manasa-aa11b0179/
+
+Category : Science & Technology
