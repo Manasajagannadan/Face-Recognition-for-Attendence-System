@@ -11,3 +11,5 @@ Working on Automatic face recognition using VGG model with Tensorflow and Keras
 ###### 4. Face Recognition: For face Recognition, Earlier we stored each cropped face image in the corresponding folder, walk through each image, load image from Keras in-built functions. Now we can recognize any face in the image if we get embeddings for the face with the help of the VGG model and feed into to classifier then get a person name. OpenCV draws a rectangle box around the face and writes a person's name for each face in the image.
 
 ###### 5. Post Preprocessing: After the xlsx sheet is applied for the system those data will be uploaded to corresponded authorities. Using matplotib, email package we did the process of sending the file and text.
+
+# Reference : https://www.youtube.com/watch?v=p-Jf_FRqjXQ
